@@ -55,5 +55,4 @@ if uploaded_file:
         st.subheader("Answer")
         st.write(answer)
 
-# cd /Users/lokesh/Desktop/hackathon
 # streamlit run app.py
